@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  chatbot-api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./embeddings:/app/embeddings
+    env_file:
+      - .env

@@ -1,0 +1,17 @@
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Database\bin\Debug\net8.0\Database.deps.json
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Database\bin\Debug\net8.0\Database.runtimeconfig.json
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Database\bin\Debug\net8.0\Database.dll
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Database\bin\Debug\net8.0\Database.pdb
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Database\bin\Debug\net8.0\Domain.dll
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Database\bin\Debug\net8.0\Domain.pdb
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Database\obj\Debug\net8.0\Database.csproj.Up2Date
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Database\obj\Debug\net8.0\Database.dll
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Database\obj\Debug\net8.0\refint\Database.dll
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Database\obj\Debug\net8.0\Database.pdb
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Database\obj\Debug\net8.0\ref\Database.dll

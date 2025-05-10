@@ -1,0 +1,11 @@
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\fabricio.souza\git\github\fabricio.souza\boilerplates-hub\dotnet-web-api\Domain\obj\Debug\net8.0\ref\Domain.dll

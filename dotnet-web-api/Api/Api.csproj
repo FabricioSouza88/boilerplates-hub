@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>dotnet_web_api</RootNamespace>
+    <RootNamespace>Api</RootNamespace>
     <UserSecretsId>412950b3-cd7b-4db1-9bb4-3d69a8d49d81</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>.</DockerfileContext>

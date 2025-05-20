@@ -5,7 +5,7 @@ using CoreKit.DataFilter.Models;
 using Microsoft.AspNetCore.Mvc;
 using StarterApp.Domain.Model;
 
-namespace dotnet_web_api.Controllers;
+namespace Api.Controllers;
 
 [ApiController]
 [Route("[controller]")]

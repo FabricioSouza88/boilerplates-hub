@@ -1,7 +1,7 @@
 ﻿using Database;
 using StarterApp.Domain.Model;
 
-namespace dotnet_web_api
+namespace Api
 {
     public static class SeedData
     {

@@ -1,5 +1,5 @@
+using Api;
 using Application;
-using dotnet_web_api;
 using Application.Config;
 
 var builder = WebApplication.CreateBuilder(args);

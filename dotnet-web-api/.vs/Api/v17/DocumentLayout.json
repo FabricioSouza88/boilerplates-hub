@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D4ACF43-1703-473A-84AF-0FF3BE46B02B}|Application\\Application.csproj|c:\\users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4ACF43-1703-473A-84AF-0FF3BE46B02B}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D4ACF43-1703-473A-84AF-0FF3BE46B02B}|Application\\Application.csproj|c:\\users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\application\\config\\exceptionhandlerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4ACF43-1703-473A-84AF-0FF3BE46B02B}|Application\\Application.csproj|solutionrelative:application\\config\\exceptionhandlerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{765988F7-6521-4A05-8DC1-A2501F1A84F1}|Tests\\Tests.csproj|c:\\users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\tests\\application\\services\\sampleservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{765988F7-6521-4A05-8DC1-A2501F1A84F1}|Tests\\Tests.csproj|solutionrelative:tests\\application\\services\\sampleservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{014E290D-AD04-4396-82A4-D09C98A75AD7}|Api\\Api.csproj|c:\\users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\api\\controllers\\crudsamplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{014E290D-AD04-4396-82A4-D09C98A75AD7}|Api\\Api.csproj|solutionrelative:api\\controllers\\crudsamplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D4ACF43-1703-473A-84AF-0FF3BE46B02B}|Application\\Application.csproj|c:\\users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\application\\services\\sampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4ACF43-1703-473A-84AF-0FF3BE46B02B}|Application\\Application.csproj|solutionrelative:application\\services\\sampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D4ACF43-1703-473A-84AF-0FF3BE46B02B}|Application\\Application.csproj|c:\\users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\application\\services\\baseservice\\basecrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4ACF43-1703-473A-84AF-0FF3BE46B02B}|Application\\Application.csproj|solutionrelative:application\\services\\baseservice\\basecrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D4ACF43-1703-473A-84AF-0FF3BE46B02B}|Application\\Application.csproj|c:\\users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\application\\dto\\sampledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4ACF43-1703-473A-84AF-0FF3BE46B02B}|Application\\Application.csproj|solutionrelative:application\\dto\\sampledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D4ACF43-1703-473A-84AF-0FF3BE46B02B}|Application\\Application.csproj|c:\\users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\application\\services\\baseservice\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4ACF43-1703-473A-84AF-0FF3BE46B02B}|Application\\Application.csproj|solutionrelative:application\\services\\baseservice\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,77 +38,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExceptionHandlerConfig.cs",
-              "DocumentMoniker": "C:\\Users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\Application\\Config\\ExceptionHandlerConfig.cs",
-              "RelativeDocumentMoniker": "Application\\Config\\ExceptionHandlerConfig.cs",
-              "ToolTip": "C:\\Users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\Application\\Config\\ExceptionHandlerConfig.cs",
-              "RelativeToolTip": "Application\\Config\\ExceptionHandlerConfig.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T21:11:23.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\Application\\DependencyInjection.cs",
-              "RelativeToolTip": "Application\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T21:10:13.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SampleServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\Tests\\Application\\Services\\SampleServiceTest.cs",
-              "RelativeDocumentMoniker": "Tests\\Application\\Services\\SampleServiceTest.cs",
-              "ToolTip": "C:\\Users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\Tests\\Application\\Services\\SampleServiceTest.cs",
-              "RelativeToolTip": "Tests\\Application\\Services\\SampleServiceTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T20:34:30.426Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SampleDto.cs",
-              "DocumentMoniker": "C:\\Users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\Application\\Dto\\SampleDto.cs",
-              "RelativeDocumentMoniker": "Application\\Dto\\SampleDto.cs",
-              "ToolTip": "C:\\Users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\Application\\Dto\\SampleDto.cs",
-              "RelativeToolTip": "Application\\Dto\\SampleDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T03:06:53.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SampleService.cs",
-              "DocumentMoniker": "C:\\Users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\Application\\Services\\SampleService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\SampleService.cs",
-              "ToolTip": "C:\\Users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\Application\\Services\\SampleService.cs",
-              "RelativeToolTip": "Application\\Services\\SampleService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T02:53:25.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "CrudSampleController.cs",
               "DocumentMoniker": "C:\\Users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\Api\\Controllers\\CrudSampleController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\CrudSampleController.cs",
               "ToolTip": "C:\\Users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\Api\\Controllers\\CrudSampleController.cs",
               "RelativeToolTip": "Api\\Controllers\\CrudSampleController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T02:51:25.597Z"
+              "WhenOpened": "2025-05-20T01:30:19.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICrudService.cs",
+              "DocumentMoniker": "C:\\Users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\Application\\Services\\BaseService\\ICrudService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\BaseService\\ICrudService.cs",
+              "ToolTip": "C:\\Users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\Application\\Services\\BaseService\\ICrudService.cs",
+              "RelativeToolTip": "Application\\Services\\BaseService\\ICrudService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:22:42.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseCrudService.cs",
+              "DocumentMoniker": "C:\\Users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\Application\\Services\\BaseService\\BaseCrudService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\BaseService\\BaseCrudService.cs",
+              "ToolTip": "C:\\Users\\fabricio.souza\\git\\github\\fabricio.souza\\boilerplates-hub\\dotnet-web-api\\Application\\Services\\BaseService\\BaseCrudService.cs",
+              "RelativeToolTip": "Application\\Services\\BaseService\\BaseCrudService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:41:00.253Z"
             }
           ]
         }

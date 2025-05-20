@@ -9,12 +9,14 @@
   <ItemGroup>
     <ProjectReference Include="..\Database\Database.csproj" />
     <ProjectReference Include="..\Domain\Domain.csproj" />
-    <ProjectReference Include="..\Libraries\Core.Lib.EventHandler\Core.Lib.EventHandler.csproj" />
+    <ProjectReference Include="..\Libraries\src\Core.Lib.DataFilter.Linq\Core.Lib.DataFilter.Linq.csproj" />
+    <ProjectReference Include="..\Libraries\src\Core.Lib.EventHandler\Core.Lib.EventHandler.csproj" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="14.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.15" />
+    <PackageReference Include="Microsoft.AspNetCore.JsonPatch" Version="9.0.5" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="9.0.4" />
   </ItemGroup>
 

@@ -1,6 +1,7 @@
 using Application.Dto;
 using Application.Interfaces;
 using AutoMapper;
+using Core.Lib.DataFilter.Models;
 using Microsoft.AspNetCore.Mvc;
 using StarterApp.Domain.Model;
 
@@ -22,9 +23,9 @@ public class CrudSampleController : ControllerBase
     }
 
     [HttpGet]
-    public async Task<ActionResult<List<SampleEntity>>> GetAllAsync(CancellationToken cancellationToken = default)
+    public async Task<ActionResult<List<SampleEntity>>> GetAllAsync([FromQuery] SimpleQueryRequest query, CancellationToken cancellationToken = default)
     {
-        return Ok(await _sampleService.GetAllAsync(cancellationToken));
+        return Ok(await _sampleService.GetAllAsync(query.ToFilterRequest(), cancellationToken));
     }
 
     [HttpGet("{id}")]
@@ -48,5 +49,19 @@ public class CrudSampleController : ControllerBase
         await _sampleService.CreateAsync(entity, cancellationToken);
 
         return Ok(entity);
+    }
+
+    [HttpPut("{id}")]
+    public async Task<ActionResult<SampleEntity>> UpdatePutAsync([FromRoute] long id, [FromBody] SampleDto sampleDto, CancellationToken cancellationToken = default)
+    {
+        var entity = await _sampleService.PutAsync(id, sampleDto, cancellationToken);
+
+        return Ok(entity);
+    }
+
+    [HttpDelete]
+    public async Task<ActionResult<SampleEntity>> DeleteAsync([FromQuery] long id, CancellationToken cancellationToken = default)
+    {
+        return Ok(await _sampleService.DeleteAsync(id, cancellationToken));
     }
 }

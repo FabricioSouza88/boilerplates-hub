@@ -1,12 +1,9 @@
-﻿using StarterApp.Domain.Model;
+﻿using Application.Services.BaseService;
+using StarterApp.Domain.Model;
 
 namespace Application.Interfaces
 {
-    public interface ISampleService
+    public interface ISampleService : ICrudService<SampleEntity, long>
     {
-        Task<SampleEntity?> GetAsync(long id, CancellationToken cancellationToken = default);
-        Task<IEnumerable<SampleEntity>> GetAllAsync(CancellationToken cancellationToken = default);
-        Task<SampleEntity> CreateAsync(SampleEntity entity, CancellationToken cancellationToken = default);
-        Task<SampleEntity> DeleteAsync(long id, CancellationToken cancellationToken = default);
     }
 }

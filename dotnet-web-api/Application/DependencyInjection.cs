@@ -3,7 +3,7 @@ using Application.Extensions;
 using Application.Interfaces;
 using Application.Services;
 using Application.Services.Notification;
-using Core.Lib.EventHandler.Extensions;
+using CoreKit.EventHandler.Extensions;
 using Database;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;

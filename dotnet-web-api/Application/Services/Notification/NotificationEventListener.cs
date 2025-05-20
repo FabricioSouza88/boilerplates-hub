@@ -1,4 +1,4 @@
-﻿using Core.Lib.EventHandler.Interfaces;
+﻿using CoreKit.EventHandler.Interfaces;
 
 namespace Application.Services.Notification
 {

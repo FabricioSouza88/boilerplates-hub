@@ -1,7 +1,7 @@
 ﻿using Application.Interfaces;
-using Core.Lib.DataFilter.Linq.Extensions;
-using Core.Lib.DataFilter.Models;
-using Core.Lib.EventHandler.Interfaces;
+using CoreKit.DataFilter.Linq.Extensions;
+using CoreKit.DataFilter.Models;
+using CoreKit.EventHandler.Interfaces;
 using Database;
 using Domain.Interfaces;
 using Microsoft.EntityFrameworkCore;

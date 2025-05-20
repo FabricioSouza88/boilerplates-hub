@@ -1,5 +1,5 @@
 ﻿using Application.Interfaces;
-using Core.Lib.DataFilter.Models;
+using CoreKit.DataFilter.Models;
 using Domain.Interfaces;
 
 namespace Application.Services.BaseService

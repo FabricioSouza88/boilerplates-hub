@@ -1,7 +1,7 @@
 using Application.Dto;
 using Application.Interfaces;
 using AutoMapper;
-using Core.Lib.DataFilter.Models;
+using CoreKit.DataFilter.Models;
 using Microsoft.AspNetCore.Mvc;
 using StarterApp.Domain.Model;
 

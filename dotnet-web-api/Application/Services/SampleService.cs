@@ -1,6 +1,6 @@
 ﻿using Application.Interfaces;
 using Application.Services.BaseService;
-using Core.Lib.EventHandler.Interfaces;
+using CoreKit.EventHandler.Interfaces;
 using Database;
 using StarterApp.Domain.Model;
 
